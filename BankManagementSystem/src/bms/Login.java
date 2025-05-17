@@ -20,6 +20,7 @@ public class Login extends JFrame implements ActionListener {
     ResultSet rs;
 
     Login() {
+        
         setLayout(null);
         setTitle("Bank Management System");
         setSize(850, 480);
