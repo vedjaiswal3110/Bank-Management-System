@@ -11,6 +11,7 @@ import java.sql.PreparedStatement;
 
 import javax.swing.*;
 
+
 public class SignUp2 extends JFrame implements ActionListener {
 
 	JLabel lb1, lb2, lb3, lbr, lbc, lbi, lbeq, lbo, lbp, lba, lbs, lbe;
