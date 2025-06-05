@@ -19,6 +19,7 @@ import javax.swing.JOptionPane;
 
 public class balanceenquiry extends JFrame implements ActionListener{
 	
+	
 	String pin;
 	JLabel lb1, lb2;
 	JButton b1, b2;
