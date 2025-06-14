@@ -16,6 +16,7 @@ public class mini extends JFrame implements ActionListener {
     Connection con;
     PreparedStatement pst1, pst2;
     ResultSet rs;
+    
 
     mini(String pin) {
         this.pin = pin;
