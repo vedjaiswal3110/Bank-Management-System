@@ -23,6 +23,7 @@ public class SignUp2 extends JFrame implements ActionListener {
 	PreparedStatement pst;
 
 	String formno;
+	
 
 	SignUp2(String first) {
 		getContentPane().setBackground(new Color(222, 255, 228));
